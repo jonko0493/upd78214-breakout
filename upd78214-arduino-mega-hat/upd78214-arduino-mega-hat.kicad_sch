@@ -4914,36 +4914,6 @@
 		(uuid "dcac4278-00eb-462e-940a-fdf3a77992b8")
 	)
 	(junction
-		(at 21.59 132.08)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "127679a9-3981-4934-815e-896a4e3ff56e")
-	)
-	(junction
-		(at 206.375 24.765)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1e63ec04-cbde-495d-bfa4-e18a7083ec2a")
-	)
-	(junction
-		(at 202.565 32.385)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "20c2fdbf-a6df-4a04-8a37-65ea87072653")
-	)
-	(junction
-		(at 31.75 46.99)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "48ab88d7-7084-4d02-b109-3ad55a30bb11")
-	)
-	(junction
-		(at 198.755 23.495)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8e676eea-a304-410e-9846-961e174c03b4")
-	)
-	(junction
 		(at 147.955 189.865)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4955,45 +4925,9 @@
 		(color 0 0 0 0)
 		(uuid "e596d911-3b5f-4f23-819d-741afed3411b")
 	)
-	(junction
-		(at 74.93 119.38)
-		(diameter 1.016)
-		(color 0 0 0 0)
-		(uuid "f71da641-16e6-4257-80c3-0b9d804fee4f")
-	)
 	(no_connect
 		(at 34.29 31.75)
 		(uuid "d181157c-7812-47e5-a0cf-9580c905fc86")
-	)
-	(wire
-		(pts
-			(xy 62.23 77.47) (xy 119.38 77.47)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "010ba307-2067-49d3-b0fa-6414143f3fc2")
-	)
-	(wire
-		(pts
-			(xy 146.685 14.605) (xy 146.685 20.955)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "017dae9c-1ea7-415d-a7c4-2ae4574e1aeb")
-	)
-	(wire
-		(pts
-			(xy 21.59 77.47) (xy 34.29 77.47)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "0652781e-53d8-47f0-b2a2-8f05e7e95976")
 	)
 	(wire
 		(pts
@@ -5007,16 +4941,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 44.45) (xy 74.93 44.45)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "09480ba4-37da-45e3-b9fe-6beebf876349")
-	)
-	(wire
-		(pts
 			(xy 44.45 109.22) (xy 44.45 119.38)
 		)
 		(stroke
@@ -5024,26 +4948,6 @@
 			(type solid)
 		)
 		(uuid "09bae494-828c-4c2a-b830-a0a856467655")
-	)
-	(wire
-		(pts
-			(xy 62.23 26.67) (xy 74.93 26.67)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "0f5d2189-4ead-42fa-8f7a-cfa3af4de132")
-	)
-	(wire
-		(pts
-			(xy 198.755 23.495) (xy 198.755 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "100812d2-6066-4348-b374-7b010157769d")
 	)
 	(wire
 		(pts
@@ -5064,66 +4968,6 @@
 			(type default)
 		)
 		(uuid "10db9ea7-0a4d-48e2-9998-2cb590b9dfcd")
-	)
-	(wire
-		(pts
-			(xy 164.465 38.735) (xy 180.975 38.735)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11a20305-3f17-4608-bc93-ff0d1f99c92b")
-	)
-	(wire
-		(pts
-			(xy 74.93 119.38) (xy 74.93 132.08)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "144ec9ba-84d6-46c1-95c2-7b9d044c8102")
-	)
-	(wire
-		(pts
-			(xy 26.67 119.38) (xy 21.59 119.38)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "18b63976-d31d-4bce-80fb-4b927b019f89")
-	)
-	(wire
-		(pts
-			(xy 62.23 90.17) (xy 74.93 90.17)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "1c2f44b3-e471-419a-a532-7c16aa64a472")
-	)
-	(wire
-		(pts
-			(xy 31.75 44.45) (xy 31.75 46.99)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "1c31b835-925f-4a5c-92df-8f2558bb711b")
-	)
-	(wire
-		(pts
-			(xy 111.76 14.605) (xy 146.685 14.605)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2048a90b-c77c-415e-b45b-2dd3433ec4e8")
 	)
 	(wire
 		(pts
@@ -5157,16 +5001,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.755 20.32) (xy 198.755 23.495)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "253c72bd-d647-46cb-827e-ecd7c34bf110")
-	)
-	(wire
-		(pts
 			(xy 31.75 109.22) (xy 31.75 119.38)
 		)
 		(stroke
@@ -5177,16 +5011,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 109.22) (xy 67.31 119.38)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "26d78356-26a3-485e-b0af-424b53a233d6")
-	)
-	(wire
-		(pts
 			(xy 130.81 76.835) (xy 139.065 76.835)
 		)
 		(stroke
@@ -5194,26 +5018,6 @@
 			(type default)
 		)
 		(uuid "28b5dbbf-9e5a-42dd-bcb8-a3ebd5e93846")
-	)
-	(wire
-		(pts
-			(xy 31.75 46.99) (xy 31.75 52.07)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "2df788b2-ce68-49bc-a497-4b6570a17f30")
-	)
-	(wire
-		(pts
-			(xy 198.755 23.495) (xy 179.705 23.495)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e1ffe0b-67c2-4850-bec2-8c444560005f")
 	)
 	(wire
 		(pts
@@ -5247,16 +5051,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 41.91) (xy 34.29 41.91)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "3661f80c-fef8-4441-83be-df8930b3b45e")
-	)
-	(wire
-		(pts
 			(xy 52.07 132.08) (xy 52.07 142.24)
 		)
 		(stroke
@@ -5267,16 +5061,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 26.67) (xy 29.21 41.91)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "392bf1f6-bf67-427d-8d4c-0a87cb757556")
-	)
-	(wire
-		(pts
 			(xy 150.495 187.325) (xy 150.495 189.865)
 		)
 		(stroke
@@ -5284,16 +5068,6 @@
 			(type default)
 		)
 		(uuid "395e6133-4952-4cda-873b-44b68c913ef0")
-	)
-	(wire
-		(pts
-			(xy 21.59 102.87) (xy 34.29 102.87)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "3a45db4f-43df-448a-90e5-fa734e4985d6")
 	)
 	(wire
 		(pts
@@ -5317,46 +5091,6 @@
 	)
 	(wire
 		(pts
-			(xy 155.575 19.05) (xy 155.575 20.955)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4123dc73-5aa2-44cf-8d2d-8ae604b6ed1b")
-	)
-	(wire
-		(pts
-			(xy 191.135 24.765) (xy 206.375 24.765)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4139e077-400a-49e5-83d6-749be1fa800b")
-	)
-	(wire
-		(pts
-			(xy 62.23 36.83) (xy 74.93 36.83)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "4227fa6f-c399-4f14-8228-23e39d2b7e7d")
-	)
-	(wire
-		(pts
-			(xy 111.76 19.05) (xy 111.76 14.605)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4284d701-ef06-4e36-85a2-e32af4e81b78")
-	)
-	(wire
-		(pts
 			(xy 31.75 26.67) (xy 31.75 39.37)
 		)
 		(stroke
@@ -5364,16 +5098,6 @@
 			(type solid)
 		)
 		(uuid "442fb4de-4d55-45de-bc27-3e6222ceb890")
-	)
-	(wire
-		(pts
-			(xy 62.23 59.69) (xy 74.93 59.69)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "4455ee2e-5642-42c1-a83b-f7e65fa0c2f1")
 	)
 	(wire
 		(pts
@@ -5397,16 +5121,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 39.37) (xy 74.93 39.37)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "4a910b57-a5cd-4105-ab4f-bde2a80d4f00")
-	)
-	(wire
-		(pts
 			(xy 34.29 100.33) (xy 21.59 100.33)
 		)
 		(stroke
@@ -5414,36 +5128,6 @@
 			(type solid)
 		)
 		(uuid "4b3f8876-a33b-4cb7-92a6-01a06f3e9245")
-	)
-	(wire
-		(pts
-			(xy 198.755 32.385) (xy 198.755 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d336ca5-83af-488e-bc1e-c4a1b7a5f971")
-	)
-	(wire
-		(pts
-			(xy 62.23 62.23) (xy 74.93 62.23)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "4e60e1af-19bd-45a0-b418-b7030b594dde")
-	)
-	(wire
-		(pts
-			(xy 62.23 97.79) (xy 74.93 97.79)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "535f236c-2664-4c6c-ba0b-0e76f0bfcd2b")
 	)
 	(wire
 		(pts
@@ -5467,36 +5151,6 @@
 	)
 	(wire
 		(pts
-			(xy 206.375 24.765) (xy 206.375 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a46fb1b-1e13-4cfc-ad91-6af3b4f4a9de")
-	)
-	(wire
-		(pts
-			(xy 206.375 20.32) (xy 206.375 24.765)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c1fd872-04d6-45c9-99f6-ccb8cdc78896")
-	)
-	(wire
-		(pts
-			(xy 21.59 119.38) (xy 21.59 132.08)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "5c382079-5d3d-4194-85e1-c1f8963618ac")
-	)
-	(wire
-		(pts
 			(xy 36.83 109.22) (xy 36.83 119.38)
 		)
 		(stroke
@@ -5504,26 +5158,6 @@
 			(type solid)
 		)
 		(uuid "5e62b16e-38db-42bd-ad8c-358f9473713c")
-	)
-	(wire
-		(pts
-			(xy 26.67 132.08) (xy 21.59 132.08)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "5eba66fb-d394-4a95-b661-8517284f6bbe")
-	)
-	(wire
-		(pts
-			(xy 62.23 46.99) (xy 74.93 46.99)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "63f2b71b-521b-4210-bf06-ed65e330fccc")
 	)
 	(wire
 		(pts
@@ -5587,16 +5221,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 67.31) (xy 74.93 67.31)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "6bb3ea5f-9e60-4add-9d97-244be2cf61d2")
-	)
-	(wire
-		(pts
 			(xy 44.45 132.08) (xy 44.45 142.24)
 		)
 		(stroke
@@ -5627,76 +5251,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 34.29) (xy 34.29 34.29)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "73d4774c-1387-4550-b580-a1cc0ac89b89")
-	)
-	(wire
-		(pts
-			(xy 179.705 36.195) (xy 178.435 36.195)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7613d978-f41d-459d-9070-183850485eee")
-	)
-	(wire
-		(pts
-			(xy 120.65 74.93) (xy 120.65 76.835)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "7a4730a6-0c30-42cd-949c-65371f4325dc")
-	)
-	(wire
-		(pts
-			(xy 62.23 87.63) (xy 74.93 87.63)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "7fad5652-8ea0-47d0-b3fa-be1ad8b7f716")
-	)
-	(wire
-		(pts
-			(xy 74.93 111.76) (xy 74.93 119.38)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "802f1617-74b6-45d5-81bd-fc68fa18fa33")
-	)
-	(wire
-		(pts
-			(xy 64.77 34.29) (xy 64.77 52.07)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "84ce350c-b0c1-4e69-9ab2-f7ec7b8bb312")
-	)
-	(wire
-		(pts
-			(xy 62.23 102.87) (xy 74.93 102.87)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "86cb4f21-03a8-4c74-83fa-9f5796375280")
-	)
-	(wire
-		(pts
 			(xy 137.795 189.865) (xy 144.78 189.865)
 		)
 		(stroke
@@ -5704,46 +5258,6 @@
 			(type default)
 		)
 		(uuid "87dbf080-c832-44c3-be21-79c73a5ec368")
-	)
-	(wire
-		(pts
-			(xy 191.135 24.765) (xy 191.135 36.195)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89539f62-d069-4f00-9c75-413cc7fbca4b")
-	)
-	(wire
-		(pts
-			(xy 62.23 31.75) (xy 74.93 31.75)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "8a3d35a2-f0f6-4dec-a606-7c8e288ca828")
-	)
-	(wire
-		(pts
-			(xy 69.85 119.38) (xy 74.93 119.38)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "8bc8f231-fbd0-4b5f-8d67-284a97c50296")
-	)
-	(wire
-		(pts
-			(xy 62.23 95.25) (xy 74.93 95.25)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "8d471594-93d0-462f-bb1a-1787a5e19485")
 	)
 	(wire
 		(pts
@@ -5767,56 +5281,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 36.83) (xy 34.29 36.83)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "93e52853-9d1e-4afe-aee8-b825ab9f5d09")
-	)
-	(wire
-		(pts
-			(xy 62.23 85.09) (xy 74.93 85.09)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "95ef487c-5414-4cc4-b8e5-a7f669bf018c")
-	)
-	(wire
-		(pts
-			(xy 34.29 46.99) (xy 31.75 46.99)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "97df9ac9-dbb8-472e-b84f-3684d0eb5efc")
-	)
-	(wire
-		(pts
-			(xy 144.78 192.405) (xy 144.78 189.865)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c7a4958-a8ca-4cef-adec-baa82c3479a2")
-	)
-	(wire
-		(pts
-			(xy 34.29 49.53) (xy 26.67 49.53)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "a7518f9d-05df-4211-ba17-5d615f04ec46")
-	)
-	(wire
-		(pts
 			(xy 29.21 109.22) (xy 29.21 119.38)
 		)
 		(stroke
@@ -5837,16 +5301,6 @@
 	)
 	(wire
 		(pts
-			(xy 202.565 32.385) (xy 198.755 32.385)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad502263-0906-450f-b82e-20f13fdae921")
-	)
-	(wire
-		(pts
 			(xy 31.75 132.08) (xy 31.75 142.24)
 		)
 		(stroke
@@ -5854,16 +5308,6 @@
 			(type solid)
 		)
 		(uuid "ae24cfe6-ec28-41d1-bf81-0cf92b50f641")
-	)
-	(wire
-		(pts
-			(xy 153.035 192.405) (xy 144.78 192.405)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af46da3a-553e-45d2-9f8a-a6a4be75fed9")
 	)
 	(wire
 		(pts
@@ -5897,26 +5341,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 92.71) (xy 74.93 92.71)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "bc51be34-dd8a-492f-80b0-7c4a6151091b")
-	)
-	(wire
-		(pts
-			(xy 62.23 34.29) (xy 64.77 34.29)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "bcbc7302-8a54-4b9b-98b9-f277f1b20941")
-	)
-	(wire
-		(pts
 			(xy 46.99 132.08) (xy 46.99 142.24)
 		)
 		(stroke
@@ -5924,16 +5348,6 @@
 			(type solid)
 		)
 		(uuid "bd37f6ec-1c69-4512-a679-1de130223883")
-	)
-	(wire
-		(pts
-			(xy 34.29 44.45) (xy 31.75 44.45)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "c12796ad-cf20-466f-9ab3-9cf441392c32")
 	)
 	(wire
 		(pts
@@ -5957,16 +5371,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 41.91) (xy 74.93 41.91)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "c722a1ff-12f1-49e5-88a4-44ffeb509ca2")
-	)
-	(wire
-		(pts
 			(xy 49.53 109.22) (xy 49.53 119.38)
 		)
 		(stroke
@@ -5984,16 +5388,6 @@
 			(type solid)
 		)
 		(uuid "cb133df4-75a8-44a9-a59b-b2bf35892b1e")
-	)
-	(wire
-		(pts
-			(xy 62.23 64.77) (xy 74.93 64.77)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "cfe99980-2d98-4372-b495-04c53027340b")
 	)
 	(wire
 		(pts
@@ -6027,36 +5421,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 100.33) (xy 74.93 100.33)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "d8dca6cb-64e3-4d5e-8e73-4b1fdf2bae54")
-	)
-	(wire
-		(pts
-			(xy 74.93 132.08) (xy 69.85 132.08)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "dc5eef5c-4268-4346-9dfa-59c86286b7a6")
-	)
-	(wire
-		(pts
-			(xy 179.705 23.495) (xy 179.705 36.195)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dca6ee39-a72f-485e-84fc-6b49e8de1a4c")
-	)
-	(wire
-		(pts
 			(xy 34.29 85.09) (xy 21.59 85.09)
 		)
 		(stroke
@@ -6064,36 +5428,6 @@
 			(type solid)
 		)
 		(uuid "dded8903-0721-4ffb-8941-0000a7418087")
-	)
-	(wire
-		(pts
-			(xy 202.565 32.385) (xy 206.375 32.385)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e15bdd04-c3df-49ef-96d7-59ad76f8d076")
-	)
-	(wire
-		(pts
-			(xy 67.31 132.08) (xy 67.31 142.24)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "e33f795a-9024-4a11-af62-b0dd42d6db71")
-	)
-	(wire
-		(pts
-			(xy 62.23 29.21) (xy 74.93 29.21)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "e7278977-132b-4777-9eb4-7d93363a4379")
 	)
 	(wire
 		(pts
@@ -6117,36 +5451,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 72.39) (xy 74.93 72.39)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "e9bdd59b-3252-4c44-a357-6fa1af0c210c")
-	)
-	(wire
-		(pts
-			(xy 62.23 69.85) (xy 74.93 69.85)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "ec76dcc9-9949-4dda-bd76-046204829cb4")
-	)
-	(wire
-		(pts
-			(xy 168.275 36.195) (xy 164.465 36.195)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee8d37a2-fc32-4f7f-b18c-53fc392cce6e")
-	)
-	(wire
-		(pts
 			(xy 139.065 -5.715) (xy 116.84 -5.715)
 		)
 		(stroke
@@ -6167,26 +5471,6 @@
 	)
 	(wire
 		(pts
-			(xy 206.375 32.385) (xy 206.375 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f37d9dd7-a5a3-4a6c-ae82-6f7a50722709")
-	)
-	(wire
-		(pts
-			(xy 62.23 74.93) (xy 120.65 74.93)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "f853d1d4-c722-44df-98bf-4a6114204628")
-	)
-	(wire
-		(pts
 			(xy 34.29 95.25) (xy 21.59 95.25)
 		)
 		(stroke
@@ -6194,26 +5478,6 @@
 			(type solid)
 		)
 		(uuid "f86b02ed-2f5a-4836-80dd-b0d705c66330")
-	)
-	(wire
-		(pts
-			(xy 26.67 49.53) (xy 26.67 26.67)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "f8de70cd-e47d-4e80-8f3a-077e9df93aa8")
-	)
-	(wire
-		(pts
-			(xy 21.59 132.08) (xy 21.59 139.7)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "f9315c78-c56d-49ea-b391-57a0fd98d09c")
 	)
 	(wire
 		(pts
@@ -6245,7 +5509,7 @@
 		)
 		(uuid "fe837306-92d0-4847-ad21-76c47ae932d1")
 	)
-	(label "A10"
+	(label "/A12"
 		(at 21.59 90.17 0)
 		(effects
 			(font
@@ -6255,27 +5519,7 @@
 		)
 		(uuid "005edc04-be9d-472e-abb8-1a62be04f9da")
 	)
-	(label "RX0{slash}0"
-		(at 74.93 77.47 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "01ea9310-cf66-436b-9b89-1a2f4237b59e")
-	)
-	(label "A15"
-		(at 21.59 102.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "027a6988-0935-4bb8-90f0-8af92f58cf97")
-	)
-	(label "A2"
+	(label "/A4"
 		(at 21.59 64.77 0)
 		(effects
 			(font
@@ -6285,47 +5529,7 @@
 		)
 		(uuid "09251fd4-af37-4d86-8951-1faaac710ffa")
 	)
-	(label "RX2{slash}17"
-		(at 74.93 92.71 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "09a7c6bf-48af-4161-b5ff-2a5d932f333b")
-	)
-	(label "*4"
-		(at 74.93 67.31 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0d8cfe6d-11bf-42b9-9752-f9a5a76bce7e")
-	)
-	(label "a12"
-		(at 139.065 130.175 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1001904a-7016-4b1d-8221-d5ccd325abaf")
-	)
-	(label "SDA{slash}20"
-		(at 74.93 100.33 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "17d18aa3-d1d6-48b9-abde-b1569bae4946")
-	)
-	(label "26"
+	(label "/ad6"
 		(at 62.23 109.22 270)
 		(effects
 			(font
@@ -6335,17 +5539,7 @@
 		)
 		(uuid "18f6ab04-d892-4607-853e-220fd6a61198")
 	)
-	(label "a15"
-		(at 139.065 137.795 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1cd79ff1-aab8-49d6-98cb-417b4db0310e")
-	)
-	(label "NMI"
+	(label "/NMI"
 		(at 127 -5.715 0)
 		(effects
 			(font
@@ -6355,7 +5549,7 @@
 		)
 		(uuid "1d82504a-587d-499d-a876-fea832dddf68")
 	)
-	(label "31"
+	(label "/a12"
 		(at 57.15 142.24 90)
 		(effects
 			(font
@@ -6365,17 +5559,7 @@
 		)
 		(uuid "1dbd18cf-0fd6-4655-af77-ad634685356d")
 	)
-	(label "22"
-		(at 67.31 109.22 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "20a273c2-0c4f-461a-8c0e-654a98990be4")
-	)
-	(label "33"
+	(label "/a11"
 		(at 54.61 142.24 90)
 		(effects
 			(font
@@ -6385,7 +5569,7 @@
 		)
 		(uuid "22e650be-ca71-4c5b-929a-0179174cf542")
 	)
-	(label "36"
+	(label "/ad1"
 		(at 49.53 109.22 270)
 		(effects
 			(font
@@ -6395,47 +5579,7 @@
 		)
 		(uuid "2338cc71-7291-467d-9e16-06843cc8d747")
 	)
-	(label "*2"
-		(at 74.93 72.39 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "23f0c933-49f0-4410-a8db-8b017f48dadc")
-	)
-	(label "a14"
-		(at 139.065 135.255 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "24ae9726-59b0-4822-8adc-be50db6265cf")
-	)
-	(label "a8"
-		(at 139.065 120.015 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "29f01e8f-ef91-430a-9810-47f0c70042cc")
-	)
-	(label "TX1{slash}18"
-		(at 74.93 95.25 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2aff2e4f-ddeb-4b6a-988b-8a38e981162b")
-	)
-	(label "ad3"
+	(label "/32"
 		(at 39.37 109.22 270)
 		(effects
 			(font
@@ -6445,7 +5589,7 @@
 		)
 		(uuid "2c2eb717-50ef-40a7-97c8-c6ef54bd7843")
 	)
-	(label "A3"
+	(label "/A3"
 		(at 21.59 67.31 0)
 		(effects
 			(font
@@ -6455,17 +5599,7 @@
 		)
 		(uuid "2c60ab74-0590-423b-8921-6f3212a358d2")
 	)
-	(label "*13"
-		(at 74.93 36.83 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "35bc5b35-b7b2-44d5-bbed-557f428649b2")
-	)
-	(label "ad7"
+	(label "/upd_reset"
 		(at 29.21 109.22 270)
 		(effects
 			(font
@@ -6475,17 +5609,7 @@
 		)
 		(uuid "3f5356b6-d6cf-4f7f-8c1b-1c2235afd086")
 	)
-	(label "*12"
-		(at 74.93 39.37 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3ffaa3b1-1d78-4c7b-bdf9-f1a8019c92fd")
-	)
-	(label "ad1"
+	(label "/36"
 		(at 44.45 109.22 270)
 		(effects
 			(font
@@ -6495,7 +5619,7 @@
 		)
 		(uuid "446e7707-0eb2-45de-bcdf-e444940e1928")
 	)
-	(label "a14"
+	(label "/upd_ce"
 		(at 31.75 142.24 90)
 		(effects
 			(font
@@ -6505,27 +5629,7 @@
 		)
 		(uuid "47caf922-8702-4f94-b876-840c844e805a")
 	)
-	(label "ad6"
-		(at 139.065 113.665 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "493cdc2a-fdb0-4bc6-854f-990b7868be73")
-	)
-	(label "~{RESET}"
-		(at 19.05 36.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "49585dba-cfa7-4813-841e-9d900d43ecf4")
-	)
-	(label "a15"
+	(label "/25"
 		(at 29.21 142.24 90)
 		(effects
 			(font
@@ -6535,7 +5639,7 @@
 		)
 		(uuid "4bebe6a0-b544-452c-bd67-18e7eee1fb08")
 	)
-	(label "35"
+	(label "/a10"
 		(at 52.07 142.24 90)
 		(effects
 			(font
@@ -6545,47 +5649,7 @@
 		)
 		(uuid "4f21e652-ddfc-480e-a30b-6f3de6c4917e")
 	)
-	(label "a10"
-		(at 139.065 125.095 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4f613328-0186-42eb-bbf5-72f21b0146a8")
-	)
-	(label "*10"
-		(at 74.93 44.45 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "54be04e4-fffa-4f7f-8a5f-d0de81314e8f")
-	)
-	(label "ad4"
-		(at 139.065 108.585 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "594bc407-eab7-4878-bf9f-07e31f29a310")
-	)
-	(label "ad3"
-		(at 139.065 106.045 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5f4dbc3d-461f-4b4d-9725-fb777abc4634")
-	)
-	(label "28"
+	(label "/ad5"
 		(at 59.69 109.22 270)
 		(effects
 			(font
@@ -6595,17 +5659,7 @@
 		)
 		(uuid "6477f043-9b22-4143-b4a3-89e852a36716")
 	)
-	(label "a13"
-		(at 139.065 132.715 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "66ff2aa4-9a5d-424a-9ab2-10b8990d6462")
-	)
-	(label "a12"
+	(label "/31"
 		(at 36.83 142.24 90)
 		(effects
 			(font
@@ -6615,17 +5669,7 @@
 		)
 		(uuid "698b94a8-a5d5-4fcf-9389-c48c71d2994d")
 	)
-	(label "23"
-		(at 67.31 142.24 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6b997cc0-2eb8-4759-8cd8-e06a3e765b57")
-	)
-	(label "29"
+	(label "/a13"
 		(at 59.69 142.24 90)
 		(effects
 			(font
@@ -6635,17 +5679,7 @@
 		)
 		(uuid "71996cd0-a78b-4cc5-9199-d84f18bb8ccf")
 	)
-	(label "a11"
-		(at 139.065 127.635 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "731b8da8-4312-46b7-a75b-666ebb74d9f9")
-	)
-	(label "A13"
+	(label "/A9"
 		(at 21.59 97.79 0)
 		(effects
 			(font
@@ -6655,7 +5689,7 @@
 		)
 		(uuid "741934d9-f8d6-43f6-8855-df46254eaabd")
 	)
-	(label "30"
+	(label "/ad4"
 		(at 57.15 109.22 270)
 		(effects
 			(font
@@ -6665,7 +5699,7 @@
 		)
 		(uuid "7a340465-ddf2-4e14-85f1-4a30c021908d")
 	)
-	(label "34"
+	(label "/ad2"
 		(at 52.07 109.22 270)
 		(effects
 			(font
@@ -6675,17 +5709,7 @@
 		)
 		(uuid "7aaf95c0-a4a1-4fea-9762-9f9a11fe29b2")
 	)
-	(label "ad1"
-		(at 139.065 100.965 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7dc3bb7e-2b61-4a20-a159-511bf210c99f")
-	)
-	(label "ad0"
+	(label "/ad0"
 		(at 46.99 109.22 270)
 		(effects
 			(font
@@ -6695,7 +5719,7 @@
 		)
 		(uuid "80da830d-ccbe-4ccc-ba64-699a23e7c3bb")
 	)
-	(label "a8"
+	(label "/a8"
 		(at 46.99 142.24 90)
 		(effects
 			(font
@@ -6704,26 +5728,6 @@
 			(justify left bottom)
 		)
 		(uuid "85766c20-e2a6-4f42-93ae-0abbcbb24540")
-	)
-	(label "*7"
-		(at 74.93 59.69 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "873d2c88-519e-482f-a3ed-2484e5f9417e")
-	)
-	(label "SDA{slash}20"
-		(at 74.93 29.21 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8885a9dc-224d-44c5-8601-05c1d9983e09")
 	)
 	(label "*8"
 		(at 74.93 49.53 180)
@@ -6735,17 +5739,7 @@
 		)
 		(uuid "89b0e564-e7aa-4224-80c9-3f0614fede8f")
 	)
-	(label "ad2"
-		(at 139.065 103.505 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "89d59ffe-5d3f-43f4-9610-5e278e46c9cb")
-	)
-	(label "A9"
+	(label "/A13"
 		(at 21.59 87.63 0)
 		(effects
 			(font
@@ -6755,27 +5749,7 @@
 		)
 		(uuid "952a5511-9a5d-4f8f-a97e-e8ce4ce6e8f7")
 	)
-	(label "*11"
-		(at 74.93 41.91 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9ad5a781-2469-4c8f-8abf-a1c3586f7cb7")
-	)
-	(label "*3"
-		(at 74.93 69.85 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9cccf5f9-68a4-4e61-b418-6185dd6a5f9a")
-	)
-	(label "A6"
+	(label "/A0"
 		(at 21.59 74.93 0)
 		(effects
 			(font
@@ -6785,7 +5759,7 @@
 		)
 		(uuid "a68f0e37-1a1e-4489-9b6c-80004051cefc")
 	)
-	(label "ad2"
+	(label "/34"
 		(at 41.91 109.22 270)
 		(effects
 			(font
@@ -6795,7 +5769,7 @@
 		)
 		(uuid "ab96dc45-0c41-4279-a074-7edd7de09669")
 	)
-	(label "A1"
+	(label "/A5"
 		(at 21.59 62.23 0)
 		(effects
 			(font
@@ -6805,17 +5779,7 @@
 		)
 		(uuid "acc9991b-1bdd-4544-9a08-4037937485cb")
 	)
-	(label "TX0{slash}1"
-		(at 74.93 74.93 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ae2c9582-b445-44bd-b371-7fc74f6cf852")
-	)
-	(label "a9"
+	(label "/37"
 		(at 44.45 142.24 90)
 		(effects
 			(font
@@ -6825,7 +5789,7 @@
 		)
 		(uuid "b108ea3e-9173-426f-91e3-29fbe611c67b")
 	)
-	(label "24"
+	(label "/ad7"
 		(at 64.77 109.22 270)
 		(effects
 			(font
@@ -6835,27 +5799,7 @@
 		)
 		(uuid "b22c9493-21e7-40f9-ab4a-883af66e2a8f")
 	)
-	(label "ad5"
-		(at 139.065 111.125 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b525dab8-333d-44df-81ba-32774c463032")
-	)
-	(label "RX1{slash}19"
-		(at 74.93 97.79 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b7ba5525-6f28-418f-b6e9-41f929efaa9d")
-	)
-	(label "a11"
+	(label "/33"
 		(at 39.37 142.24 90)
 		(effects
 			(font
@@ -6865,7 +5809,7 @@
 		)
 		(uuid "b8842f35-e4fc-44b7-b4d0-7accf92d09cf")
 	)
-	(label "A0"
+	(label "/A6"
 		(at 21.59 59.69 0)
 		(effects
 			(font
@@ -6875,17 +5819,7 @@
 		)
 		(uuid "ba02dc27-26a3-4648-b0aa-06b6dcaf001f")
 	)
-	(label "AREF"
-		(at 74.93 31.75 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "bbf52cf8-6d97-4499-a9ee-3657cebcdabf")
-	)
-	(label "A14"
+	(label "/A8"
 		(at 21.59 100.33 0)
 		(effects
 			(font
@@ -6895,7 +5829,7 @@
 		)
 		(uuid "bd3e392e-bbec-4253-a763-753dfee7de15")
 	)
-	(label "A8"
+	(label "/A14"
 		(at 21.59 85.09 0)
 		(effects
 			(font
@@ -6915,7 +5849,7 @@
 		)
 		(uuid "c348793d-eec0-4f33-9b91-2cae8b4224a4")
 	)
-	(label "27"
+	(label "/a14"
 		(at 62.23 142.24 90)
 		(effects
 			(font
@@ -6925,7 +5859,7 @@
 		)
 		(uuid "c4c11702-ed50-4d67-86e2-8ac3dfca1d3c")
 	)
-	(label "37"
+	(label "/a9"
 		(at 49.53 142.24 90)
 		(effects
 			(font
@@ -6935,7 +5869,7 @@
 		)
 		(uuid "c62cb2f9-93e6-4de3-82d9-f406dcc835c2")
 	)
-	(label "25"
+	(label "/a15"
 		(at 64.77 142.24 90)
 		(effects
 			(font
@@ -6945,17 +5879,7 @@
 		)
 		(uuid "c6588f1d-b5e7-4dc0-a1da-95bde5326aaa")
 	)
-	(label "*6"
-		(at 74.93 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c775d4e8-c37b-4e73-90c1-1c8d36333aac")
-	)
-	(label "ad4"
+	(label "/30"
 		(at 36.83 109.22 270)
 		(effects
 			(font
@@ -6965,27 +5889,7 @@
 		)
 		(uuid "c8f2751e-59a1-474e-82bf-8085a882f0ab")
 	)
-	(label "SCL{slash}21"
-		(at 74.93 26.67 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cba886fc-172a-42fe-8e4c-daace6eaef8e")
-	)
-	(label "*9"
-		(at 74.93 46.99 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ccb58899-a82d-403c-b30b-ee351d622e9c")
-	)
-	(label "ad6"
+	(label "/upd_ea"
 		(at 31.75 109.22 270)
 		(effects
 			(font
@@ -6995,37 +5899,7 @@
 		)
 		(uuid "d19df32a-1d66-47a2-93a9-52901cc05840")
 	)
-	(label "TX2{slash}16"
-		(at 74.93 90.17 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d1f016cc-8bf6-4af1-9ba8-66e5d25ac678")
-	)
-	(label "a9"
-		(at 139.065 122.555 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d977a2b5-074e-46d0-ab2f-62b23e84ceb3")
-	)
-	(label "*5"
-		(at 74.93 64.77 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d9a65242-9c26-45cd-9a55-3e69f0d77784")
-	)
-	(label "a10"
+	(label "/35"
 		(at 41.91 142.24 90)
 		(effects
 			(font
@@ -7035,37 +5909,7 @@
 		)
 		(uuid "d9ab8846-a0c1-45af-95fb-ed9f49c48cc3")
 	)
-	(label "IOREF"
-		(at 19.05 34.29 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "de819ae4-b245-474b-a426-865ba877b8a2")
-	)
-	(label "ad7"
-		(at 139.065 116.205 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "df0e9a86-0846-4a33-880f-05ac1d4704d8")
-	)
-	(label "A7"
-		(at 21.59 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e459d168-6de0-4524-931b-0a87ff6a2346")
-	)
-	(label "A11"
+	(label "/A11"
 		(at 21.59 92.71 0)
 		(effects
 			(font
@@ -7075,7 +5919,7 @@
 		)
 		(uuid "e7bc037d-f713-40fe-bd87-8dad57be940a")
 	)
-	(label "A4"
+	(label "/A2"
 		(at 21.59 69.85 0)
 		(effects
 			(font
@@ -7085,7 +5929,7 @@
 		)
 		(uuid "e7ce99b8-ca22-4c56-9e55-39d32c709f3c")
 	)
-	(label "A5"
+	(label "/A1"
 		(at 21.59 72.39 0)
 		(effects
 			(font
@@ -7095,27 +5939,7 @@
 		)
 		(uuid "ea5aa60b-a25e-41a1-9e06-c7b6f957567f")
 	)
-	(label "RX3{slash}15"
-		(at 74.93 87.63 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "eab32ddf-9d4a-4536-9b23-419bd01aec67")
-	)
-	(label "TX3{slash}14"
-		(at 74.93 85.09 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ecaf9a4d-bb16-4673-8318-6b25d78b7027")
-	)
-	(label "a13"
+	(label "/29"
 		(at 34.29 142.24 90)
 		(effects
 			(font
@@ -7125,17 +5949,7 @@
 		)
 		(uuid "ed05b18e-f540-4526-9fff-805dcc48e71b")
 	)
-	(label "ad0"
-		(at 139.065 98.425 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f35c10e2-bd78-4688-bc32-c834e2a769ea")
-	)
-	(label "32"
+	(label "/ad3"
 		(at 54.61 109.22 270)
 		(effects
 			(font
@@ -7145,7 +5959,7 @@
 		)
 		(uuid "f971dfdf-10c5-478f-810c-23069995bed8")
 	)
-	(label "A12"
+	(label "/A10"
 		(at 21.59 95.25 0)
 		(effects
 			(font
@@ -7155,17 +5969,7 @@
 		)
 		(uuid "fdbe6a21-18ae-42f5-995e-d5af4acd2ad3")
 	)
-	(label "SCL{slash}21"
-		(at 74.93 102.87 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fe75186b-fcb4-4cdd-bd6e-6b90c00b9cce")
-	)
-	(label "ad5"
+	(label "/upd_oe"
 		(at 34.29 109.22 270)
 		(effects
 			(font
@@ -7601,81 +6405,7 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "power:GND")
-		(at 64.77 52.07 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000056d72a3d")
-		(property "Reference" "#PWR05"
-			(at 64.77 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 64.77 55.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 64.77 52.07 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 52.07 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "dcc7d892-ae5b-4d8f-ab19-e541f0cf0497")
-		)
-		(instances
-			(project "upd78214-arduino-mega-hat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
+
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
 		(at 39.37 67.31 0)
@@ -8244,156 +6974,8 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "power:GND")
-		(at 21.59 139.7 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000056d758f6")
-		(property "Reference" "#PWR07"
-			(at 21.59 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 21.7043 144.0244 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 21.59 139.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 139.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 21.59 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a496220d-793d-4cc8-9a74-3ae385ccfba9")
-		)
-		(instances
-			(project "upd78214-arduino-mega-hat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 74.93 111.76 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-000056d75ab8")
-		(property "Reference" "#PWR06"
-			(at 74.93 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 75.2983 107.4356 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 74.93 111.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 111.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 74.93 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5f768500-89d6-479e-8869-0f9364910e8f")
-		)
-		(instances
-			(project "upd78214-arduino-mega-hat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
+
+
 	(symbol
 		(lib_id "Switch:SW_SPST")
 		(at 173.355 36.195 0)
@@ -8554,166 +7136,8 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 111.76 21.59 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "345ae2d3-4842-4b98-88d3-3546c9cecdc4")
-		(property "Reference" "R1"
-			(at 114.3 20.3199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10kΩ"
-			(at 114.3 22.8599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 111.76 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 111.76 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 111.76 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "56c97f92-e062-4d45-bfe9-5897b0467322")
-		)
-		(pin "1"
-			(uuid "7d16f909-bf32-484b-95ae-2ef7ee817c67")
-		)
-		(instances
-			(project "upd78214-arduino-mega-hat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 202.565 32.385 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4dea264f-15c7-4759-9e2a-4c590c6fe992")
-		(property "Reference" "#PWR010"
-			(at 202.565 38.735 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 202.565 37.465 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 202.565 32.385 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 202.565 32.385 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 202.565 32.385 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e7471032-251d-4f9a-83f4-d69353bf2de0")
-		)
-		(instances
-			(project "upd78214-arduino-mega-hat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
+
+
 	(symbol
 		(lib_id "Device:C_Small")
 		(at 198.755 27.94 0)
@@ -8807,84 +7231,7 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 155.575 19.05 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "57d5cf66-6be1-4d78-b3fc-53eb57a3c76d")
-		(property "Reference" "#PWR09"
-			(at 155.575 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 155.575 13.97 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 155.575 19.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 155.575 19.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 155.575 19.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3388ec17-59dc-4938-81f6-32c6dcbf95d6")
-		)
-		(instances
-			(project "upd78214-arduino-mega-hat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
+
 	(symbol
 		(lib_id "power:VCC")
 		(at 26.67 26.67 0)
@@ -8963,88 +7310,7 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 153.035 189.865 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "65e0f168-d66b-4891-88ad-63ee5eb1e369")
-		(property "Reference" "R2"
-			(at 154.94 188.5949 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10kΩ"
-			(at 154.94 191.1349 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 153.035 189.865 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 153.035 189.865 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 153.035 189.865 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2be1293a-c9c4-48fb-8024-91ac4c61479f")
-		)
-		(pin "2"
-			(uuid "de36a0d1-446a-4f1f-8959-543b3f805c9a")
-		)
-		(instances
-			(project "upd78214-arduino-mega-hat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
+
 	(symbol
 		(lib_id "power:GND")
 		(at 137.795 189.865 0)
@@ -9216,84 +7482,7 @@
 			)
 		)
 	)
-	(symbol
-		(lib_id "power:GND")
-		(at 111.76 24.13 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "99b0ab6d-9ad5-4f83-9273-3b43d28ba806")
-		(property "Reference" "#PWR011"
-			(at 111.76 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 111.76 29.21 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 111.76 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 111.76 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 111.76 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cfda4471-8a9c-4619-89e0-422a7ab4dc2e")
-		)
-		(instances
-			(project "upd78214-arduino-mega-hat"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
+
 	(symbol
 		(lib_id "Device:Crystal")
 		(at 202.565 20.32 180)
@@ -10003,6 +8192,5891 @@
 			(project "upd78214-arduino-mega-hat"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 34.29 44.45) (xy 19.05 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5500223-b613-4be9-8839-5a398146d4f5")
+	)
+	(label "/IOREF"
+		(at 19.05 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7ac8e4d2-599f-402a-ac1d-5030dc38a410")
+	)
+	(wire
+		(pts
+			(xy 34.29 41.91) (xy 19.05 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d7251ec-5140-40f9-8635-047c817eab48")
+	)
+	(label "/~{RESET}"
+		(at 19.05 41.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3de193cc-c476-4037-9afe-850e6a13de99")
+	)
+	(wire
+		(pts
+			(xy 29.21 26.67) (xy 29.21 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baf35215-6c1f-4353-b361-1d18252402d9")
+	)
+	(wire
+		(pts
+			(xy 29.21 36.83) (xy 34.29 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e6f767f-7b91-44c2-98b2-240993794533")
+	)
+	(wire
+		(pts
+			(xy 34.29 34.29) (xy 24.13 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e228eb3f-fc39-4591-8d70-cfe14738dcca")
+	)
+	(wire
+		(pts
+			(xy 34.29 31.75) (xy 24.13 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c2eee02-b428-4e26-a41c-001475c36a33")
+	)
+	(wire
+		(pts
+			(xy 24.13 31.75) (xy 24.13 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75081833-9207-47dc-a7b7-e626b8f507c5")
+	)
+	(wire
+		(pts
+			(xy 24.13 52.07) (xy 31.75 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3845cab9-813b-4808-9088-42b545acfe4e")
+	)
+	(wire
+		(pts
+			(xy 26.67 26.67) (xy 26.67 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a388c2b8-898a-44d6-abfc-f9446266324a")
+	)
+	(wire
+		(pts
+			(xy 26.67 29.21) (xy 34.29 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2cbb7ba-bf58-4ccb-9afe-c34340f0aa18")
+	)
+	(wire
+		(pts
+			(xy 52.07 26.67) (xy 44.5 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23b39bac-7a74-4f00-9118-89751a1a4603")
+	)
+	(label "/SCL{slash}21"
+		(at 44.5 26.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "34937c3e-977f-43ab-a5d0-2c7824f3e8c3")
+	)
+	(wire
+		(pts
+			(xy 52.07 29.21) (xy 44.5 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1f76cf0-931f-4bd3-a0ba-e38be607228e")
+	)
+	(label "/a3"
+		(at 44.5 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6d1bbc75-58c5-470b-be2e-3568acee86e0")
+	)
+	(wire
+		(pts
+			(xy 52.07 31.75) (xy 44.5 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73a70776-7bae-44da-92cb-da00bc941030")
+	)
+	(label "/AREF"
+		(at 44.5 31.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "054d5b1e-4410-4ca4-b0ff-ccfa17625d5b")
+	)
+	(wire
+		(pts
+			(xy 52.07 36.83) (xy 44.5 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6065a727-f3a1-474c-bbc5-8f44e2fa5c5e")
+	)
+	(label "/*13"
+		(at 44.5 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4849e645-7b8f-4c83-ae6d-bf79c252ca2a")
+	)
+	(wire
+		(pts
+			(xy 52.07 39.37) (xy 44.5 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6aea043e-38a0-4c00-8539-cdd0324a845b")
+	)
+	(label "/a7"
+		(at 44.5 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ac5497ec-5264-480d-b691-f01423bbc2fa")
+	)
+	(wire
+		(pts
+			(xy 52.07 41.91) (xy 44.5 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86e0cdc3-d46e-4a4d-bcd7-3eca8c0e1917")
+	)
+	(label "/a6"
+		(at 44.5 41.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0f02dd51-12e1-42ee-8d26-07fbc1dbb85c")
+	)
+	(wire
+		(pts
+			(xy 52.07 44.45) (xy 44.5 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50c82137-fbe4-4df0-9860-bd8ec9a2ee66")
+	)
+	(label "/a5"
+		(at 44.5 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ecf2b6d7-0723-4601-9128-f37b12abcf05")
+	)
+	(wire
+		(pts
+			(xy 52.07 46.99) (xy 44.5 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fed7412-6c80-40fb-bfb6-fda2a327f5b3")
+	)
+	(label "/a4"
+		(at 44.5 46.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e73b7ce-45e2-48f2-b368-b77e2a634dd9")
+	)
+	(wire
+		(pts
+			(xy 52.07 49.53) (xy 44.5 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efa66853-6227-4c0d-bc5d-670199769478")
+	)
+	(label "/*8"
+		(at 44.5 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b7f65780-6d0b-47a2-8d41-ca5cd5c7df77")
+	)
+	(wire
+		(pts
+			(xy 52.07 34.29) (xy 44.5 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27a29a83-5642-4b7e-9650-49ea3a65e710")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 44.5 34.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fe9b611b-14b3-4aca-bfc1-c0d3fec9bfbb")
+		(property "Reference" "#PWR013"
+			(at 44.5 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 44.5 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 44.5 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.5 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 44.5 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f6f56eaf-a28f-423f-b4db-b22f7e4e6582")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 21.59 57.15) (xy 34.29 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd397e11-55a0-472a-b75e-a0c63c48314e")
+	)
+	(label "/A7"
+		(at 21.59 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "74c15d48-1230-4099-9207-b7968f94c208")
+	)
+	(wire
+		(pts
+			(xy 21.59 82.55) (xy 34.29 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed2bb625-bd24-4fd3-8650-243798e78712")
+	)
+	(label "/A15"
+		(at 21.59 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5beb12bd-0c56-44c4-b18b-6bd25b05c454")
+	)
+	(wire
+		(pts
+			(xy 52.07 59.69) (xy 44.5 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b92a9e28-ffae-486f-8a9b-007d3e5a9bbc")
+	)
+	(label "/*7"
+		(at 44.5 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "566cd125-7d8f-4b2d-bd8d-8fbfbbaf3a7b")
+	)
+	(wire
+		(pts
+			(xy 52.07 62.23) (xy 44.5 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a2c0ccf-e63e-48ac-aa52-95073eae2490")
+	)
+	(label "/*6"
+		(at 44.5 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7f0ce189-7335-42b9-9569-29450a1d21f6")
+	)
+	(wire
+		(pts
+			(xy 52.07 64.77) (xy 44.5 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2a68838-ccdf-45a4-8eb7-9dc4e90d39f8")
+	)
+	(label "/*5"
+		(at 44.5 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fa21d551-355e-47b5-873f-63b708d1773a")
+	)
+	(wire
+		(pts
+			(xy 52.07 67.31) (xy 44.5 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "984eb0cb-927f-4658-9d5e-ed28c91f605b")
+	)
+	(label "/a2"
+		(at 44.5 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "52e0302a-1d6d-4c30-a068-280efe96ec35")
+	)
+	(wire
+		(pts
+			(xy 52.07 69.85) (xy 44.5 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39e1829b-d6d9-4686-8703-19b5f709e15c")
+	)
+	(label "/a1"
+		(at 44.5 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0e5cc6c3-4826-4517-92e2-ebf70f1e1f88")
+	)
+	(wire
+		(pts
+			(xy 52.07 72.39) (xy 44.5 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d381e0bb-78de-47c9-8b12-d7be7c6de1cb")
+	)
+	(label "/a0"
+		(at 44.5 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9befa175-2edb-4c97-9ce1-8e60820e1572")
+	)
+	(wire
+		(pts
+			(xy 44.5 74.93) (xy 120.65 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e48218f1-2793-46df-89da-4f1005845fb1")
+	)
+	(wire
+		(pts
+			(xy 120.65 74.93) (xy 120.65 76.835)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4f12d76-a317-486e-9256-161a915022b0")
+	)
+	(label "/TX0{slash}1"
+		(at 44.5 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7dfc5612-f5fa-4e5f-b928-01beffd4a87c")
+	)
+	(wire
+		(pts
+			(xy 44.5 77.47) (xy 119.38 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48fa65e5-f1cb-4b71-b55d-6dc021d53e29")
+	)
+	(label "/RX0{slash}0"
+		(at 44.5 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a699b74b-79fc-4976-94ed-0b300b2a7978")
+	)
+	(wire
+		(pts
+			(xy 52.07 85.09) (xy 44.5 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcc342ed-463d-4bbb-a026-6d0fd4840134")
+	)
+	(label "/prog_a9"
+		(at 44.5 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eec54483-a707-4e4a-b576-8baf5badc622")
+	)
+	(wire
+		(pts
+			(xy 52.07 87.63) (xy 44.5 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d486210-f2d6-4e4f-b065-e01f438d1900")
+	)
+	(label "/RX3{slash}15"
+		(at 44.5 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a682861f-48b1-4d99-905d-507d67630f87")
+	)
+	(wire
+		(pts
+			(xy 52.07 90.17) (xy 44.5 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3919e862-7730-45d5-b5e5-198743f54e63")
+	)
+	(label "/TX2{slash}16"
+		(at 44.5 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "309e9884-eefa-44a6-995b-878e77ef4ef8")
+	)
+	(wire
+		(pts
+			(xy 52.07 92.71) (xy 44.5 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19b360ff-4c80-4a68-ae86-fdbe5a7034e9")
+	)
+	(label "/RX2{slash}17"
+		(at 44.5 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "877e7b21-d208-4367-b6dd-bf716ea0706b")
+	)
+	(wire
+		(pts
+			(xy 52.07 95.25) (xy 44.5 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b473f45-58a9-4b31-848e-88f190eaff84")
+	)
+	(label "/TX1{slash}18"
+		(at 44.5 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c8f425f7-1394-4062-94d1-00861214c3ca")
+	)
+	(wire
+		(pts
+			(xy 52.07 97.79) (xy 44.5 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c86b70f-6546-4cff-9950-af6c17434112")
+	)
+	(label "/RX1{slash}19"
+		(at 44.5 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e3a36c50-62e7-40df-8fe9-e47ceb7c48d7")
+	)
+	(wire
+		(pts
+			(xy 52.07 100.33) (xy 44.5 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12c69432-4ef3-4559-b942-2fdb2680b3be")
+	)
+	(label "/SDA{slash}20"
+		(at 44.5 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dbb74c09-2567-4a84-a315-d82bf6202ff2")
+	)
+	(wire
+		(pts
+			(xy 52.07 102.87) (xy 44.5 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb3f5364-3665-405e-a858-bfa83e7e1778")
+	)
+	(label "/SCL{slash}21"
+		(at 44.5 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "809de3f3-f61e-4c55-a30d-b20f50d0050d")
+	)
+	(wire
+		(pts
+			(xy 67.31 119.38) (xy 67.31 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2834ca7b-60e4-49cf-84da-71a756b40040")
+	)
+	(wire
+		(pts
+			(xy 67.31 125.73) (xy 74.93 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d32cede3-ed50-4a90-a50f-1274662d46c7")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 74.93 125.73 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aeeffe87-c2c0-4db7-93e7-d23aec3f9070")
+		(property "Reference" "#PWR014"
+			(at 74.93 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 74.93 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 74.93 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 74.93 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 74.93 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7ad9ee94-4764-4399-b93d-d3354f81bbfd")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 24.13 119.38) (xy 24.13 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "986bed7a-b875-41f1-bdab-c112b869f83c")
+	)
+	(wire
+		(pts
+			(xy 24.13 125.73) (xy 19.5 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e36c200c-6ce0-430a-8912-6cb9ed02cff1")
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 19.5 125.73 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f73435fa-aa37-4303-afc9-0afb23c78033")
+		(property "Reference" "#PWR015"
+			(at 19.5 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 19.5 128.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 19.5 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 19.5 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 19.5 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c31740a8-050e-4d3c-8e5e-09a1acf1891b")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 26.67 109.22) (xy 26.67 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d9ba6b2-b365-4bc7-a40c-8f02166a2452")
+	)
+	(label "/22"
+		(at 26.67 109.22 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b7d8341a-8ce5-4f0b-a0aa-a2abf781cca4")
+	)
+	(wire
+		(pts
+			(xy 26.67 132.08) (xy 26.67 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6bc3608f-b78c-4587-ad81-cab8b3a6f1bd")
+	)
+	(label "/23"
+		(at 26.67 142.24 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "15c203e4-5dee-4c0e-bdbf-fc0f02abb5cb")
+	)
+	(wire
+		(pts
+			(xy 139.065 76.835) (xy 161.925 76.835)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13df87c5-53e5-4e91-b3b6-b24ab36b6b29")
+	)
+	(label "Net-(JP2-B)"
+		(at 150.495 76.835 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0bc7ea2f-4d72-4d2c-b6d2-75c2cca3ea1d")
+	)
+	(wire
+		(pts
+			(xy 139.065 79.375) (xy 161.925 79.375)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eece461a-af76-4949-a0c8-26ac6f65253b")
+	)
+	(label "Net-(JP1-B)"
+		(at 150.495 79.375 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "83c1fbae-fc1a-48c8-addf-05ce32448247")
+	)
+	(label "/a0"
+		(at 161.925 33.655 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e009f338-323b-4729-8805-f3e3d0dbf3d4")
+	)
+	(label "/a1"
+		(at 161.925 36.195 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ccc3eb3f-7dd0-408c-8967-bcf13cbf79a7")
+	)
+	(label "/a2"
+		(at 161.925 38.735 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7d047eb4-bab4-475a-adad-9b5976bc9eec")
+	)
+	(label "/a3"
+		(at 161.925 41.275 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bfb38abb-7738-4d94-80f8-fcf7dc8e27ba")
+	)
+	(label "/a4"
+		(at 161.925 43.815 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "00b004b8-5403-47b5-944e-09d7f9977f3e")
+	)
+	(label "/a5"
+		(at 161.925 46.355 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "414918b8-360d-4e0c-8658-d9e562665ef4")
+	)
+	(label "/a6"
+		(at 161.925 48.895 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "029e704b-e111-4927-9f55-a539f51d4d5a")
+	)
+	(label "/a7"
+		(at 161.925 51.435 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d2bc8f7-0e20-42e5-94b2-5cb639cd2c5e")
+	)
+	(label "/NMI"
+		(at 161.925 55.245 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8cd74995-ae57-4c3d-bc11-d5cd1c4c2a49")
+	)
+	(label "/prog_a9"
+		(at 161.925 57.785 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "36d0e1dc-a2a7-4cb8-9810-9ad8699783e9")
+	)
+	(label "/pd38"
+		(at 161.925 81.915 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "458799f8-02de-4f5f-918b-2213a55bcc38")
+	)
+	(label "/pd39"
+		(at 161.925 84.455 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ef701e72-1dc0-4095-8304-37b750b40cda")
+	)
+	(label "/ad0"
+		(at 161.925 98.425 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "db7e5700-df6b-464a-a1bf-4f2da13b2b17")
+	)
+	(label "/ad1"
+		(at 161.925 100.965 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "318b7adf-1a54-44d2-ac8d-0d5c5afd70eb")
+	)
+	(label "/ad2"
+		(at 161.925 103.505 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "267e2787-3b35-4a9d-8d27-9be1a55d5d21")
+	)
+	(label "/ad3"
+		(at 161.925 106.045 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fe6466a1-9db9-45d6-9e01-2178f76d594d")
+	)
+	(label "/ad4"
+		(at 161.925 108.585 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e5e3f6e5-cb32-4100-901d-7561c7d29fcf")
+	)
+	(label "/ad5"
+		(at 161.925 111.125 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6d6751c9-fbe8-46be-92a7-f710ca651c58")
+	)
+	(label "/ad6"
+		(at 161.925 113.665 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5c266d9e-8b75-4820-ad30-66b41d5d659c")
+	)
+	(label "/ad7"
+		(at 161.925 116.205 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5ef01f8a-cd32-413f-8f1b-ac34994993d0")
+	)
+	(label "/a8"
+		(at 161.925 120.015 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "35b1e778-b468-4041-9f1d-498be646b366")
+	)
+	(label "/a9"
+		(at 161.925 122.555 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bbd23c6a-5fc8-4f93-9425-8591d4ab5c2b")
+	)
+	(label "/a10"
+		(at 161.925 125.095 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cdef0dd1-c390-4e0a-a731-669436268f6d")
+	)
+	(label "/a11"
+		(at 161.925 127.635 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "07607d46-3c0a-4d6d-840f-59318df2321a")
+	)
+	(label "/a12"
+		(at 161.925 130.175 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3a533609-0bde-4656-80a5-b2e1c41c93f3")
+	)
+	(label "/a13"
+		(at 161.925 132.715 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "145f6497-a704-4b3a-89d5-2a3b79db4ace")
+	)
+	(label "/a14"
+		(at 161.925 135.255 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0860e127-8e3f-4b7e-a7d7-77af463e9575")
+	)
+	(label "/a15"
+		(at 161.925 137.795 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cfb72ab1-2ac3-4574-a529-1999beab0214")
+	)
+	(label "/pd05"
+		(at 161.925 141.605 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "305e2896-26e1-4fa0-96b1-ab1439d41ed9")
+	)
+	(label "/pd04"
+		(at 161.925 144.145 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d3bea636-42fb-4015-9326-3c5a3af7f632")
+	)
+	(label "/pd03"
+		(at 161.925 146.685 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "67138451-d89b-4eea-a090-a0d2bd10e070")
+	)
+	(label "/pd02"
+		(at 161.925 149.225 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c846b528-f032-4470-84de-5303a7c85007")
+	)
+	(label "/upd_oe"
+		(at 161.925 151.765 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fd5d52bc-4bf8-4745-9f94-434c55a7edea")
+	)
+	(label "/upd_ce"
+		(at 161.925 154.305 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f3f03178-2048-42ee-bb4d-07b8ade33d77")
+	)
+	(label "/pd63"
+		(at 161.925 156.845 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c2d3d866-464c-43b1-9110-5fa467d69e67")
+	)
+	(label "/pd62"
+		(at 161.925 159.385 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cec67cc3-e2ef-4e8f-b040-755d8bf9de1c")
+	)
+	(label "/pd49"
+		(at 161.925 163.195 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f88307eb-d283-4d00-be60-9b250819f2f8")
+	)
+	(label "/pd48"
+		(at 161.925 165.735 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "89c2edf2-1f78-40c9-9ed0-2ab3e1f5129a")
+	)
+	(label "/pd47"
+		(at 161.925 168.275 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ca2e2193-b082-4743-949a-3107545ceacf")
+	)
+	(label "/pd46"
+		(at 161.925 170.815 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "60465bb4-dd49-4250-b013-a50dfce7c0b7")
+	)
+	(label "/pd45"
+		(at 161.925 173.355 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bd52075e-53fc-4120-b864-7c6b34483709")
+	)
+	(label "/pd44"
+		(at 161.925 175.895 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6d1e0cb0-55a8-4890-ab4a-16b45ba6e218")
+	)
+	(label "/upd_reset"
+		(at 136.525 33.655 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "15d63e7c-828f-48af-9bf5-ad93dcde5df1")
+	)
+	(label "/upd_ea"
+		(at 136.525 41.275 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4c1a7b3f-c86a-412a-b46b-a4a2cfb54515")
+	)
+	(label "Net-(U1-X1)"
+		(at 136.525 38.735 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "50d8ce16-af0b-43b2-b801-a81455b037c6")
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 149.225 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21cb8fb4-0746-44fb-ab02-5bae370170dc")
+		(property "Reference" "R1"
+			(at 172.5 146.685 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 151.765 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 149.225 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 149.225 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 149.225 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5eb39ac0-400f-45f8-908f-a009be05acf7")
+		)
+		(pin "1"
+			(uuid "99037eed-e924-44ec-a479-6f689ac14790")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 149.225) (xy 169.96 149.225)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "280c8a88-24d6-42eb-8df1-0e7353e35229")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 149.225 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "50e9182b-aba5-4804-987b-402b6ba2b3bf")
+		(property "Reference" "#PWR016"
+			(at 175.04 146.685 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 151.765 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 149.225 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 149.225 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 149.225 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "56cc0e39-63f7-4316-ab0e-16f625cd4fb4")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 146.685 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eaa40dfb-3a37-457e-879e-2b00423af0c7")
+		(property "Reference" "R2"
+			(at 172.5 144.145 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 149.225 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 146.685 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 146.685 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 146.685 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b2c2ea02-57a0-4511-ad64-83e1caf694e6")
+		)
+		(pin "1"
+			(uuid "e3d6ef25-2b47-4d79-b76f-c7405227b3b1")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 146.685) (xy 169.96 146.685)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a55667c0-61f8-4558-af06-12fb5885888c")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 146.685 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "678fcb18-9d16-4aef-852b-4ae0042f4848")
+		(property "Reference" "#PWR017"
+			(at 175.04 144.145 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 149.225 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 146.685 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 146.685 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 146.685 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1301614f-955e-4791-b7ad-cd4c8d93a3ef")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 144.145 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "73145eec-62c8-43bc-91c2-294ab15d3396")
+		(property "Reference" "R3"
+			(at 172.5 141.605 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 146.685 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 144.145 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 144.145 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 144.145 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8bbd8e89-660b-4a7c-bf97-f0aa9d043660")
+		)
+		(pin "1"
+			(uuid "d4b8d719-c5b3-4611-9082-00b5a08a4472")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 144.145) (xy 169.96 144.145)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ff19298-2d6f-42f9-beaa-d53e4f17f98b")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 144.145 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3716bf70-b0cd-4359-bc81-bfd29b029295")
+		(property "Reference" "#PWR018"
+			(at 175.04 141.605 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 146.685 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 144.145 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 144.145 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 144.145 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cf92f11a-3917-46ff-9865-aba45ac7fa2c")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 141.605 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "91e27ad5-e36f-499a-b0b2-62f51f81a891")
+		(property "Reference" "R4"
+			(at 172.5 139.065 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 144.145 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 141.605 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 141.605 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 141.605 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0f6cc84e-4712-4eb8-ba55-e475d1764c14")
+		)
+		(pin "1"
+			(uuid "ad420db5-1b96-4ba2-a6e8-8b5d73d7f9a0")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 141.605) (xy 169.96 141.605)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a5dc4e5-54b2-4a0b-8532-151cd0cd66ca")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 141.605 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "32ed25cf-0442-4a13-b231-63ec4995755f")
+		(property "Reference" "#PWR019"
+			(at 175.04 139.065 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 144.145 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 141.605 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 141.605 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 141.605 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5977d860-8286-493f-98c0-042c480ce054")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 159.385 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe6cf9fa-9112-4e32-bbf6-19c7a272c892")
+		(property "Reference" "R5"
+			(at 172.5 156.845 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 161.925 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 159.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 159.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 159.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cdd36565-7165-4e29-a01b-1895e9ede1f7")
+		)
+		(pin "1"
+			(uuid "78c91924-3ae2-44cc-8e83-16e9c475ac3d")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 159.385) (xy 169.96 159.385)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "749e7950-118c-4e9e-aef0-1dc6996c0880")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 159.385 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "673b8109-6ea7-4869-b1b4-faa8db8c4df3")
+		(property "Reference" "#PWR020"
+			(at 175.04 156.845 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 161.925 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 159.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 159.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 159.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "89c3f6e0-5f3c-4599-bb67-fd05f8148810")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 156.845 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "870ed662-b965-47c8-95e6-8275ddf92195")
+		(property "Reference" "R6"
+			(at 172.5 154.305 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 159.385 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 156.845 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 156.845 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 156.845 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7b6bb1b3-8e7c-4a06-bfb0-6168d51ba33a")
+		)
+		(pin "1"
+			(uuid "7c2b6a2d-e250-434b-9e08-e34739309706")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 156.845) (xy 169.96 156.845)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a75cb60f-a15e-4af7-abfa-0d61ff170ad6")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 156.845 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2ded445e-6d5d-4cf0-a6e6-b7f53792ac60")
+		(property "Reference" "#PWR021"
+			(at 175.04 154.305 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 159.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 156.845 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 156.845 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 156.845 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c908dd68-6eee-42a4-9c4e-bb71845ebaea")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 122.555 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b9af47a-84fe-4539-9c9a-3fed8a1ea760")
+		(property "Reference" "R7"
+			(at 172.5 120.015 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 125.095 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 122.555 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 122.555 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 122.555 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7ff08441-85e4-4fa0-a798-428df95dea33")
+		)
+		(pin "1"
+			(uuid "8b6489a7-0f68-4838-8b5b-c8f25f1629ff")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 122.555) (xy 169.96 122.555)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d785098-e28c-4212-8e65-cd2043792ce3")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 122.555 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ccf383bd-7633-4c6c-9562-581e8bc8143d")
+		(property "Reference" "#PWR022"
+			(at 175.04 120.015 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 125.095 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 122.555 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 122.555 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 122.555 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ae101e34-70c4-4376-b04f-85bf4db56f47")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 81.915 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "735bf518-5b01-4a76-93bc-2d96afb26f9c")
+		(property "Reference" "R8"
+			(at 172.5 79.375 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 84.455 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 81.915 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 81.915 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 81.915 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "84057dbf-af32-4811-87f5-8ec95bda3eaf")
+		)
+		(pin "1"
+			(uuid "b0941597-baaa-48b3-a34e-57882386029e")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 81.915) (xy 169.96 81.915)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e9da681-a4d6-48cd-8e3e-1f43b810abdd")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 81.915 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "93239267-7f73-448b-a4e2-8f2e7de8a1c8")
+		(property "Reference" "#PWR023"
+			(at 175.04 79.375 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 84.455 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 81.915 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 81.915 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 81.915 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5dbc6c39-1d87-4a6a-aac1-0ae660e62106")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 84.455 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f26367d5-52e4-4007-a8eb-d83a9c96d22a")
+		(property "Reference" "R9"
+			(at 172.5 81.915 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 86.995 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 84.455 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 84.455 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 84.455 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f5ad1075-b97b-4cef-a305-84d7f13b4d79")
+		)
+		(pin "1"
+			(uuid "c9016b99-c8e5-41a9-a5c5-8e79353451cc")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 84.455) (xy 169.96 84.455)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab3c9902-3c86-4690-abe4-72bc6bb829e9")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 84.455 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f2143030-9da7-44be-bc44-1e9d6b1028f7")
+		(property "Reference" "#PWR024"
+			(at 175.04 81.915 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 86.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 84.455 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 84.455 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 84.455 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "80b31360-3a9e-4a63-8e59-372a8da9d5b0")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 175.895 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "34ebd2ab-ef5b-4472-99dd-16bfef2a15a2")
+		(property "Reference" "R11"
+			(at 172.5 173.355 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 178.435 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 175.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 175.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 175.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "95857b37-f2e6-4164-b439-63976c836a5d")
+		)
+		(pin "1"
+			(uuid "03e5811b-df8c-48fa-a77e-3eb88fde5d13")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 175.895) (xy 169.96 175.895)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d40f23fe-649b-458c-be22-b9e761251ff5")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 175.895 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "24ff397d-84a4-4182-a9f9-c5ffc8071bc0")
+		(property "Reference" "#PWR025"
+			(at 175.04 173.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 178.435 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 175.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 175.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 175.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2d4e53a3-1026-4835-8ca2-386e5d6ce5ea")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 173.355 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a31882c1-f639-47e5-9ebd-ee7dfe2ab0b3")
+		(property "Reference" "R12"
+			(at 172.5 170.815 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 175.895 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 173.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 173.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 173.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "aaf88067-8e9b-4108-940d-c862e3cd9041")
+		)
+		(pin "1"
+			(uuid "8c387c7d-4e69-473f-a0b4-ac49d8c6cc5d")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 173.355) (xy 169.96 173.355)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30174759-62e8-49fd-9ed6-c312b9b09864")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 173.355 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b9c94322-96b9-4454-85d3-e59cee1c6605")
+		(property "Reference" "#PWR026"
+			(at 175.04 170.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 175.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 173.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 173.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 173.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8632074d-4104-42c8-9d2b-9aef127ce8ae")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 170.815 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "82da6b03-7c89-47fd-93a0-d4b73ed45662")
+		(property "Reference" "R13"
+			(at 172.5 168.275 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 173.355 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 170.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 170.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 170.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2aa00781-5dfa-4cbd-b681-95307cd8164e")
+		)
+		(pin "1"
+			(uuid "4b253287-fea4-4744-b543-ee1ae651b733")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 170.815) (xy 169.96 170.815)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dbe2f00-6651-4059-ad7c-ff940bf77168")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 170.815 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1ae2f7b0-2ea3-43ce-925d-99216b86493c")
+		(property "Reference" "#PWR027"
+			(at 175.04 168.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 173.355 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 170.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 170.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 170.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8ce405da-4de9-489a-a384-75a5c39e0b31")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 168.275 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "112de734-bbbb-4d20-85f1-47f256103a4a")
+		(property "Reference" "R14"
+			(at 172.5 165.735 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 170.815 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 168.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 168.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 168.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0f3fd6df-339f-482a-9242-3c297aa80f05")
+		)
+		(pin "1"
+			(uuid "d28f50d2-cc47-4dca-92d5-2b0ebbfa880f")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 168.275) (xy 169.96 168.275)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b96a292-58c4-4280-bd47-b0fe31711c4d")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 168.275 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "11949b3d-3328-4712-8766-f1efb760f9b6")
+		(property "Reference" "#PWR028"
+			(at 175.04 165.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 170.815 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 168.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 168.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 168.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "674dccfa-598f-4e0d-9026-390437a2b3bb")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 165.735 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77bb7ebc-d088-4d93-a796-9b8683a10996")
+		(property "Reference" "R15"
+			(at 172.5 163.195 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 168.275 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 165.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 165.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 165.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3175ade9-5dd5-42a6-8b92-89cf70ec12c0")
+		)
+		(pin "1"
+			(uuid "47e6f497-93ce-4d47-a022-a078163d6afa")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 165.735) (xy 169.96 165.735)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37e87c90-e4d1-4e45-939a-43df4558a303")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 165.735 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6948946e-402e-4fb2-ad98-4953be8ee5aa")
+		(property "Reference" "#PWR029"
+			(at 175.04 163.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 168.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 165.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 165.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 165.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3b86c6d1-6c05-44e7-94c0-69638b7ab2c4")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 163.195 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0eefd3d0-7df8-4c01-8ec8-380763457321")
+		(property "Reference" "R16"
+			(at 172.5 160.655 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 165.735 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 163.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 163.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 163.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "47ea68c4-638f-4205-be9b-0ee9d6ab9fb9")
+		)
+		(pin "1"
+			(uuid "dbb6a5af-46c5-458a-859c-2cd412a93b6a")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 163.195) (xy 169.96 163.195)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "340e4701-980f-4d2e-bdbb-c91e3de91af6")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.04 163.195 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "065efbca-d9d3-4744-bd4e-26c3eeb1eff7")
+		(property "Reference" "#PWR030"
+			(at 175.04 160.655 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.04 165.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 163.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 163.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 175.04 163.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e5b84691-a9f6-4468-8483-c438c9ce66d0")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 151.765 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2a51006c-8a92-4ffa-8558-e49a7b026b74")
+		(property "Reference" "R17"
+			(at 172.5 149.225 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 154.305 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 151.765 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 151.765 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 151.765 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dbdd814a-20f6-440e-91e6-4f3c11955214")
+		)
+		(pin "1"
+			(uuid "5ef8386e-00c6-4c55-99a8-ba244952e660")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 151.765) (xy 169.96 151.765)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25ffa0bf-bb4a-4a97-8950-2c9b087c0d20")
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 175.04 151.765 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a702c7df-de8e-4c60-bf17-ccae0f3d07ac")
+		(property "Reference" "#PWR031"
+			(at 175.04 149.225 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 175.04 154.305 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 151.765 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 151.765 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 175.04 151.765 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7d537b2a-8729-4d5b-b8b6-c9ddd3301639")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 172.5 154.305 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9e4037a-c27d-4cf8-bd17-2beef1954aef")
+		(property "Reference" "R18"
+			(at 172.5 151.765 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 172.5 156.845 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 172.5 154.305 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.5 154.305 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 172.5 154.305 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "2bea1182-42ad-466b-bab3-9b8a56934595")
+		)
+		(pin "1"
+			(uuid "60db63cf-29c3-44e9-870d-110bc6c5641c")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 161.925 154.305) (xy 169.96 154.305)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "522026cc-97f9-415c-9a1e-9e093cfa426a")
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 175.04 154.305 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f1a89a6d-90ab-445c-8ce9-b89918d5d481")
+		(property "Reference" "#PWR032"
+			(at 175.04 151.765 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 175.04 156.845 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.04 154.305 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.04 154.305 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 175.04 154.305 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5a6cd06d-a9ee-40b3-8d0b-2c5575d03b30")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 154.305 15 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "65aaf8fb-bc6e-4637-a79a-74a3ee5f7477")
+		(property "Reference" "R10"
+			(at 154.305 12.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 154.305 17.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 154.305 15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.305 15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 154.305 15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cc8cf24c-01f5-4cec-827c-17f0fc923bf4")
+		)
+		(pin "1"
+			(uuid "5b079589-e31e-468d-8898-1d3f704e4c76")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 154.305 20.955) (xy 154.305 17.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "834e8153-9f20-4198-96ba-108c91f2477a")
+	)
+	(label "/pd43"
+		(at 154.305 19.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "335b2ede-c33a-416c-9317-38dfdc9ab3b0")
+	)
+	(wire
+		(pts
+			(xy 154.305 12.46) (xy 154.305 10.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a24b344c-3fe2-4492-ad62-c06bced0ab50")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 154.305 10.16 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "75b9c91a-1f51-45c1-b06a-4495966d8122")
+		(property "Reference" "#PWR033"
+			(at 154.305 7.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 154.305 12.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.305 10.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.305 10.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 154.305 10.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "557bfad2-b8d0-42a6-9acc-ddb11ca30d27")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 124.46 33.655 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6c061140-6af5-46df-9259-d08260ca525c")
+		(property "Reference" "R19"
+			(at 124.46 31.115 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 124.46 36.195 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 124.46 33.655 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 33.655 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 124.46 33.655 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "95b318ee-96e3-41ca-b5cb-d70f82f864b6")
+		)
+		(pin "1"
+			(uuid "2fbdd8c6-3a55-443c-8d9e-9910959d3f86")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 136.525 33.655) (xy 127 33.655)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fa4eafa-ae7e-419c-80ba-9b76fb7322cc")
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 121.92 33.655 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "41e2e184-c293-401f-8b2c-ce2cffb08f83")
+		(property "Reference" "#PWR034"
+			(at 121.92 31.115 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 121.92 36.195 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 33.655 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 33.655 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 121.92 33.655 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4ac52cac-13b2-4c5b-9917-2aa9fedcdd85")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 124.46 41.275 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7452a7b6-ca69-4030-9b57-02b0d40440b1")
+		(property "Reference" "R20"
+			(at 124.46 38.735 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kΩ"
+			(at 124.46 43.815 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 124.46 41.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 41.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 124.46 41.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4b323976-fa08-4cc6-a5ac-5623096c9e80")
+		)
+		(pin "1"
+			(uuid "fea60825-14cd-40c2-9939-ee88dde558fc")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 136.525 41.275) (xy 127 41.275)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "857f782a-882f-425d-aab6-1a2fa8801ca6")
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 121.92 41.275 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6d1f8438-07e2-4cbb-86c2-8169b990e3cc")
+		(property "Reference" "#PWR035"
+			(at 121.92 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 121.92 43.815 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 41.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 41.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 121.92 41.275 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6c116650-4719-4bf9-b692-3ca88ad9bfc8")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 145.415 20.955) (xy 145.415 17.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "021274f0-d9f6-45cf-bd52-c867a265a13e")
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 145.415 17.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b5ccf8ed-d6fc-434f-8e18-3f9a8e128879")
+		(property "Reference" "#PWR036"
+			(at 145.415 15.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 145.415 20.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 145.415 17.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 145.415 17.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 145.415 17.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "524c92a2-846e-47de-9e64-555bbff62bf9")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 161.925 60.325 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "28857c83-3e9d-4c4f-83e1-26d5651c654d")
+		(property "Reference" "#PWR037"
+			(at 161.925 57.785 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.925 62.865 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.925 60.325 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.925 60.325 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 161.925 60.325 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6347e90d-289f-4817-907b-40e997123758")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 161.925 62.865 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "76d22d86-e746-4c02-b624-0a4780415fdd")
+		(property "Reference" "#PWR038"
+			(at 161.925 60.325 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.925 65.405 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.925 62.865 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.925 62.865 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 161.925 62.865 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d1d9891e-47a1-493b-8f9d-4f71f660b918")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 161.925 65.405 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cebab08b-8b55-474f-bcd2-63d20a2840da")
+		(property "Reference" "#PWR039"
+			(at 161.925 62.865 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.925 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.925 65.405 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.925 65.405 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 161.925 65.405 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6f3ca86d-d9b9-406d-9286-432bd1f34715")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 161.925 67.945 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "128032f9-9caa-43a8-bb21-3cca5bd4b75c")
+		(property "Reference" "#PWR040"
+			(at 161.925 65.405 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.925 70.485 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.925 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.925 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 161.925 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "14a7519a-7586-45e9-95b1-1904de541ce0")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 161.925 70.485 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "31fdf98e-6d93-450e-ba00-0613b4953023")
+		(property "Reference" "#PWR041"
+			(at 161.925 67.945 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.925 73.025 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.925 70.485 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.925 70.485 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 161.925 70.485 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "de64333e-c5f9-4155-be40-79d1fd290a8e")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 161.925 73.025 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "96a7b1e6-db78-4f0c-9ca4-58235afb140b")
+		(property "Reference" "#PWR042"
+			(at 161.925 70.485 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.925 75.565 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.925 73.025 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.925 73.025 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 161.925 73.025 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e77f763b-aae2-423f-ba60-07d7f34ed81a")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 153.035 187.325) (xy 153.035 189.865)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36bd8c27-c07e-4e17-b68a-905637b22520")
+	)
+	(wire
+		(pts
+			(xy 150.495 189.865) (xy 153.035 189.865)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bb48acc-64ad-4be8-90c4-64757c1bbca5")
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Bridged")
+		(at 125 36.195 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "61657675-f3ff-4f09-b284-430a38895919")
+		(property "Reference" "JP3"
+			(at 125 33.655 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Bridged"
+			(at 125 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm"
+			(at 125 36.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 125 36.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, closed/bridged"
+			(at 125 36.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey" ""
+			(at 125.73 79.375 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "18ba8329-55cd-4a11-9a7d-a417ac55b663")
+		)
+		(pin "2"
+			(uuid "62b8a1a8-f48f-4989-bf4f-7e6b52aa2093")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "JP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 130.08 36.195) (xy 136.525 36.195)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f8e2e8c-9675-442b-9315-45f4acbf722e")
+	)
+	(label "Net-(U1-X2)"
+		(at 133 36.195 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "038104f9-3b95-45b0-a27a-010a8f6fb4ed")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 119.92 36.195 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b3689bab-f43f-4cb4-ab37-04ed091930e8")
+		(property "Reference" "#PWR043"
+			(at 119.92 33.655 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 119.92 38.735 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.92 36.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.92 36.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 119.92 36.195 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a98a6317-ba7d-46d9-be4d-a18c485ab9c1")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(label "Net-(U1-X1)"
+		(at 206.375 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5b472f29-d1f0-4453-8bf8-7ce207e2f0eb")
+	)
+	(label "Net-(U1-X2)"
+		(at 198.755 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c52bde03-ba65-4076-9b44-2c0572374da5")
+	)
+	(label "Net-(U1-X1)"
+		(at 206.375 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ffacee54-a9f5-4155-bb61-0bf697da2f0e")
+	)
+	(wire
+		(pts
+			(xy 206.375 25.4) (xy 206.375 23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c60013df-41a7-4c6c-9d3f-b1b66e745eb5")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 206.375 23 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "83bc0ba5-c458-423f-bd62-4e8c69955c27")
+		(property "Reference" "#PWR044"
+			(at 206.375 20.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 206.375 25.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 206.375 23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 206.375 23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 206.375 23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "69a5125d-1d28-4776-a04c-df0465f5e166")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(label "Net-(U1-X2)"
+		(at 198.755 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e382bbdd-1723-4f94-8880-73821d321194")
+	)
+	(wire
+		(pts
+			(xy 198.755 30.48) (xy 198.755 32.385)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3622aff-d751-42dc-839e-6bce019f80f3")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 198.755 32.385 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "669cfd3e-1a23-40de-ba0b-809f00526564")
+		(property "Reference" "#PWR045"
+			(at 198.755 29.845 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 198.755 34.925 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 198.755 32.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 198.755 32.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\", ground"
+			(at 198.755 32.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e286bbc0-5017-41da-9b67-8c9049f89292")
+		)
+		(instances
+			(project "upd78214-arduino-mega-hat"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
